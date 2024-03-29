@@ -1,0 +1,17 @@
+Team name: Pandas-Haters
+Metrics:
+Submetric 1: Fire Incidents
+https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+
+Submetric 2: 311 Data (potholes, paving)
+https://data.wprdc.org/dataset/311-data
+
+
+Submetric 3:Arrest Data
+https://data.wprdc.org/dataset/arrest-data
+
+Metric: Countable Data
+
+Every submetric has a degree from 0.5 - 1
+Fire incidents has 0.75x multiplier, 311 Data has 0.5x multiplier, Arrest Data has 1.0x multiplier
+
