@@ -9,6 +9,4 @@ In order to find the best Pittsburgh neighborhoods around us, we have chosen the
 - Public Safety - [https://data.wprdc.org/dataset/pgh/resource/bd152875-a14d-421a-8656-cc896a7e9074](url)
 - 
 
-Overview:
-
-This project is engineered to find the best Pittsburgh neighborhoods based on Transportation, Public Safety, 
+Overview:	This project is engineered to find the best Pittsburgh neighborhoods based on Transportation, Public Safety, 
