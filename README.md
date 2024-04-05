@@ -1,5 +1,5 @@
 # bigideafinals
-Team name: Group 20
+Team name: Pandas Haters - Group 20
 - Benediktus Djunaidi - bdd43@pitt.edu
 - Oliver Schunn - obs12@pitt.edu
 - Shin Young Kang - shk274@pitt.edu
